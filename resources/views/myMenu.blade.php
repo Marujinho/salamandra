@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-md-offset-3">
-				<h1>Bem vindo ao seu menu</h1>	
+				<h1>Bem vindo ao CARALHO</h1>	
 				<hr>
 				@foreach($bebidas as $bebida)
 
